@@ -28,10 +28,10 @@ Highly experienced and results-driven software architect and engineering leader 
 Atlanta, GA | April 2018 – Present
 
 - Spearheaded transition to in-house engineering, hiring and leading team of 3 engineers to deliver a new greenfield social network platform.
+- Scaled engineering team from 3 to 25+ members, building a high-performing organization and supporting rapid business expansion.
 - Architected secure APIs, core data models, and infrastructure for client applications serving Fortune 500 client base.
 - Established and streamlined DevOps pipelines, enabling CI/CD practices and improved cycle times across distributed teams.
 - Instituted best practices in API security, data privacy, and peer review, resulting in 100% compliance with enterprise security standards.
-- Scaled engineering team to 25+ members, building a high-performing organization and supporting rapid business expansion.
 - Mentored senior and junior engineers, driving skills growth and retention.
 
 **TRACT** – Software Engineer, Architect  
