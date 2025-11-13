@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-Highly experienced and results-driven software architect and engineering leader with 25+ years in full-stack development, cloud architecture, API security, and team leadership. Expert at building high-performing teams, scaling distributed systems, and driving innovation across games, SaaS, and enterprise applications. Proven track record delivering robust, secure systems and fostering a culture of collaboration and continuous learning.
+Experienced Software Architect and Engineering Leader with 25+ years delivering robust, secure systems and leading multidisciplinary teams across games, SaaS, and enterprise applications. Renowned for a deep passion for problem solving—thriving on tackling complex technical challenges and uncovering innovative solutions that move products, teams, and organizations forward. Expert in cloud, API security, DevOps, and team growth. Excels at scaling technology, building high-performing organizations, and driving continuous improvement from concept through launch.
 
 ***
 
